@@ -43,8 +43,8 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 [Adicione aqui a licença que você escolher, por exemplo, MIT]
 
 ## Autor
-[Seu nome]
-[Seu email]
+Charlles felipe
+charllesdev@hotmail.com
 ```
 
 ## **Explicando o README.md:**
@@ -70,3 +70,5 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 * **Atualize regularmente:** Mantenha o README.md atualizado à medida que o projeto evolui.
 
 Com este README.md, você terá um arquivo completo e informativo para o seu repositório no GitHub, facilitando a compreensão do seu projeto por outros desenvolvedores.
+
+link do projeto: https://crossfit-bel-m.vercel.app/
